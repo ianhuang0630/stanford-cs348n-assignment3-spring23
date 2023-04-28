@@ -64,7 +64,7 @@ Each experiment run will output a directory with name `exp-vae` for VAE, and it 
 
 ## Questions
 
-Please ask TA or post on Piazza for any question.
+Please ask TA or post on Edstem for any question.
 Please do not use the Github Issue for Q&As for the class.
 
 
